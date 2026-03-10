@@ -197,6 +197,13 @@ h2 {
   max-width: 620px;
 }
 
+.mission-note {
+  margin: 14px 0 0;
+  max-width: 680px;
+  color: var(--text);
+  font-weight: 500;
+}
+
 .typing-line {
   margin: 20px 0 0;
   font-size: 1.1rem;
@@ -260,6 +267,12 @@ h2 {
 
 .section-head h2 {
   margin-top: 8px;
+}
+
+.section-copy {
+  margin: 12px 0 0;
+  max-width: 760px;
+  color: var(--muted);
 }
 
 .card {
