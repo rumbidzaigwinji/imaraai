@@ -1,0 +1,21 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="imara_bg" x1="26" y1="22" x2="222" y2="234" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1BE0B0"/>
+      <stop offset="1" stop-color="#13A8D9"/>
+    </linearGradient>
+    <linearGradient id="imara_core" x1="128" y1="62" x2="128" y2="192" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#031D29"/>
+      <stop offset="1" stop-color="#0B2F3F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="18" y="18" width="220" height="220" rx="58" fill="url(#imara_bg)"/>
+
+  <path d="M82 188V86.5C82 80.701 86.701 76 92.5 76C98.299 76 103 80.701 103 86.5V188H82Z" fill="url(#imara_core)"/>
+  <path d="M117.5 188V67.5C117.5 61.701 122.201 57 128 57C133.799 57 138.5 61.701 138.5 67.5V188H117.5Z" fill="url(#imara_core)"/>
+  <path d="M153 188V99.5C153 93.701 157.701 89 163.5 89C169.299 89 174 93.701 174 99.5V188H153Z" fill="url(#imara_core)"/>
+
+  <path d="M82 188H174" stroke="#E8FAFF" stroke-opacity="0.72" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="128" cy="48" r="9" fill="#FFF4D8"/>
+</svg>
