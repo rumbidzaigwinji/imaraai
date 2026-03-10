@@ -266,7 +266,7 @@ const teamMembers = [
   {
     name: "Rumbidzai Gwinji",
     role: "Chief Executive Officer (CEO)",
-    bio: "Rumbidzai leads strategy, partnerships, and product direction at Imara Tech. She brings experience in AI for health and focuses on turning bold ideas into practical, market-ready solutions that respond to real health and business challenges across Africa.",
+    bio: "Rumbidzai leads strategy, partnerships, and product direction across Imara Inc. She brings experience in AI for health and helps shape the vision of Imara AI while guiding practical market-facing delivery through Imara Tech.",
     linkedin: "https://www.linkedin.com/in/rumbidzai-gwinji-b31480239/",
     image: "assets/team/ceo-rumbidzai.jpg",
     imageAlt: "Rumbidzai Gwinji portrait"
@@ -274,7 +274,7 @@ const teamMembers = [
   {
     name: "Benedict Ejelonu",
     role: "Chief Technology Officer (CTO)",
-    bio: "Benedict leads engineering and technical architecture across the company's platforms. He brings experience in AI for climate science and drives end-to-end delivery for scalable systems, data workflows, and digital products built for production reliability and impact.",
+    bio: "Benedict leads engineering and technical architecture across Imara Inc. He brings experience in AI for climate science, strengthens the technical direction of Imara AI, and drives reliable delivery across the consultancy work of Imara Tech.",
     linkedin: "https://www.linkedin.com/in/benedict-ejelonu/",
     image: "assets/team/cto-benedict.jpg",
     imageAlt: "Benedict Ejelonu portrait"
