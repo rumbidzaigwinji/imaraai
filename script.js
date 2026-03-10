@@ -132,25 +132,41 @@ if (counters.length > 0) {
 const testimonials = [
   {
     title: "Boarding House Management Platform",
-    status: "Status: In Production",
-    quote: "A live platform that streamlines hostel and boarding-house administration, allocation, and monitoring.",
-    author: "Live Product by Imara Tech",
+    status: "Status: Live in Market",
+    quote: "A live digital platform that streamlines hostel and boarding-house administration, student allocation, occupancy tracking, and operational monitoring.",
+    author: "Use case: student housing management for schools, hostels, and residential operators.",
     link: "https://boarding-house-management.streamlit.app/",
     linkLabel: "Open Live App"
   },
   {
-    title: "MedSync Triage Assistant",
+    title: "Facial Recognition for Attendance",
     status: "Status: In Production",
-    quote: "Your AI triage assistant reduced our response backlog without disrupting our existing team process.",
-    author: "Product Manager, HealthTech Team",
+    quote: "A computer vision attendance solution built to reduce manual registers, improve accuracy, and give institutions faster reporting on presence and timekeeping.",
+    author: "Use case: schools, training centres, workplaces, and any organization that needs reliable attendance tracking.",
     link: "",
     linkLabel: ""
   },
   {
-    title: "ShopPilot Growth Engine",
+    title: "Bundo AI - An AI Farmer",
     status: "Status: In Production",
-    quote: "From strategy to deployment, the team delivered quickly and handled every technical blocker with clarity.",
-    author: "Founder, E-Commerce Startup",
+    quote: "An AI farming assistant designed to give farmers practical guidance on crops, field decisions, weather-aware planning, and everyday agricultural problem solving.",
+    author: "Use case: climate-smart support for farmers and agricultural communities making field decisions.",
+    link: "",
+    linkLabel: ""
+  },
+  {
+    title: "E-Commerce Website for Tastic Products, Peanut Butter and More",
+    status: "Status: Still In Production",
+    quote: "A retail e-commerce platform for packaged consumer products, built to strengthen online visibility, simplify product discovery, and support digital sales growth.",
+    author: "Use case: online sales and digital catalog management for food and fast-moving consumer brands.",
+    link: "",
+    linkLabel: ""
+  },
+  {
+    title: "Mushavi Courier Services",
+    status: "Status: In Production, Not Yet Live",
+    quote: "A courier operations platform designed to improve delivery coordination, service tracking, dispatch visibility, and customer communication as the business prepares for launch.",
+    author: "Use case: logistics teams that need better dispatch management, tracking, and service operations.",
     link: "",
     linkLabel: ""
   }
@@ -250,7 +266,7 @@ const teamMembers = [
   {
     name: "Rumbidzai Gwinji",
     role: "Chief Executive Officer (CEO)",
-    bio: "Rumbidzai leads strategy, partnerships, and product direction at Imara Tech. She focuses on turning bold ideas into practical, market-ready AI and software solutions while keeping delivery aligned with real business outcomes.",
+    bio: "Rumbidzai leads strategy, partnerships, and product direction at Imara Tech. She brings experience in AI for health and focuses on turning bold ideas into practical, market-ready solutions that respond to real health and business challenges across Africa.",
     linkedin: "https://www.linkedin.com/in/rumbidzai-gwinji-b31480239/",
     image: "assets/team/ceo-rumbidzai.jpg",
     imageAlt: "Rumbidzai Gwinji portrait"
@@ -258,7 +274,7 @@ const teamMembers = [
   {
     name: "Benedict Ejelonu",
     role: "Chief Technology Officer (CTO)",
-    bio: "Benedict leads engineering and technical architecture across the company's platforms. He drives end-to-end delivery for scalable AI systems, data workflows, and web and app products built for production reliability.",
+    bio: "Benedict leads engineering and technical architecture across the company's platforms. He brings experience in AI for climate science and drives end-to-end delivery for scalable systems, data workflows, and digital products built for production reliability and impact.",
     linkedin: "https://www.linkedin.com/in/benedict-ejelonu/",
     image: "assets/team/cto-benedict.jpg",
     imageAlt: "Benedict Ejelonu portrait"
