@@ -147,14 +147,6 @@ const testimonials = [
     linkLabel: ""
   },
   {
-    title: "Bundo AI - An AI Farmer",
-    status: "Status: In Production",
-    quote: "An AI farming assistant designed to give farmers practical guidance on crops, field decisions, weather-aware planning, and everyday agricultural problem solving.",
-    author: "Use case: practical support for farmers and agricultural communities making field decisions.",
-    link: "",
-    linkLabel: ""
-  },
-  {
     title: "E-Commerce Website for Tastic Products, Peanut Butter and More",
     status: "Status: Still In Production",
     quote: "A retail e-commerce platform for packaged consumer products, built to strengthen online visibility, simplify product discovery, and support digital sales growth.",
