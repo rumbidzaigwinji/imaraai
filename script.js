@@ -150,7 +150,7 @@ const testimonials = [
     title: "Bundo AI - An AI Farmer",
     status: "Status: In Production",
     quote: "An AI farming assistant designed to give farmers practical guidance on crops, field decisions, weather-aware planning, and everyday agricultural problem solving.",
-    author: "Use case: climate-smart support for farmers and agricultural communities making field decisions.",
+    author: "Use case: practical support for farmers and agricultural communities making field decisions.",
     link: "",
     linkLabel: ""
   },
@@ -266,7 +266,7 @@ const teamMembers = [
   {
     name: "Rumbidzai Gwinji",
     role: "Chief Executive Officer (CEO)",
-    bio: "Rumbidzai leads strategy, partnerships, and product direction across Imara Inc. She brings experience in AI for health and helps shape the vision of Imara AI while guiding practical market-facing delivery through Imara Tech.",
+    bio: "Rumbidzai leads strategy, partnerships, and product direction across Imara Inc. She shapes the vision of Imara AI while guiding practical market-facing delivery through Imara Tech.",
     linkedin: "https://www.linkedin.com/in/rumbidzai-gwinji-b31480239/",
     image: "assets/team/ceo-rumbidzai.jpg",
     imageAlt: "Rumbidzai Gwinji portrait"
@@ -274,7 +274,7 @@ const teamMembers = [
   {
     name: "Benedict Ejelonu",
     role: "Chief Technology Officer (CTO)",
-    bio: "Benedict leads engineering and technical architecture across Imara Inc. He brings experience in AI for climate science, strengthens the technical direction of Imara AI, and drives reliable delivery across the consultancy work of Imara Tech.",
+    bio: "Benedict leads engineering and technical architecture across Imara Inc. He strengthens the technical direction of Imara AI and drives reliable delivery across the consultancy work of Imara Tech.",
     linkedin: "https://www.linkedin.com/in/benedict-ejelonu/",
     image: "assets/team/cto-benedict.jpg",
     imageAlt: "Benedict Ejelonu portrait"
